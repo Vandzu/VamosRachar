@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Let\'s split</string>
+    <string name="people">Amount of people</string>
+    <string name="value">Total price</string>
+</resources>

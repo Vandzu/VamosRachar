@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Vamos Rachar</string>
-    <string name="vamos_rachar">Vamos Rachar!</string>
+    <string name="people">Quantidade de pessoas</string>
+    <string name="value">Valor total</string>
 </resources>
